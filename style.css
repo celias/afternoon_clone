@@ -1,10 +1,12 @@
 body {
     background: #0828CC;
+    background: 
 }
 
 .links {
     display: flex;
     margin-left: 700px;
+   
     padding: 25px;
     justify-content: space-between;
     font-family: "aktiv-grotesk",sans-serif;
@@ -21,7 +23,7 @@ body {
     margin-left: 10px;
     justify-content: space-between;
     float: center;
-    width: 50%;
+    /* width: 50%; */
     font-family: "aktiv-grotesk",sans-serif;
     color: white;
     font-size: 18px;
